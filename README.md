@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">  I am Dinuka Himsara 🎲🎲Enjoy My Profile 🚀🚀
+## Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">  I am Red Makquil 🎲🎲Enjoy My Profile 🚀🚀
 ![My card name](https://cardivo.vercel.app/api?name=Dinuka%20Himsara%20🎲🎲&description=Hi,%20i%27m%20a%20%20i%27m%20simple%20developer%20and%20i%27m%20in%20sri%20lanka%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/185c241c27145c2520a94.jpg?v=4&backgroundColor=%#000000&github=BlackerMoskie&pattern=leaf&colorPattern=%23eaeaea)
 
 
@@ -24,3 +24,7 @@
 </p>
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<!-- https://github.com/RedMakquil/github-readme-activity-graph -->
+<a href="https://github.com/RedMakqui/github-readme-activity-graph"><img alt="Red Makquil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RedMakquil&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
